@@ -1,6 +1,6 @@
 {
   "name": "gem-nodes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "External lib for Geo Ex Machina",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "https://github.com/geo-ex-machina/gem-nodes.git"
   },
-  "keywords": ["your", "keywords", "here"],
+  "keywords": [
+    "your",
+    "keywords",
+    "here"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "bugs": {
