@@ -1,6 +1,6 @@
 {
   "name": "gem-nodes",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "External lib for Geo Ex Machina",
   "main": "index.js",
   "scripts": {
